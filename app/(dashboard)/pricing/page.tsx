@@ -27,7 +27,7 @@ export default async function PricingPage() {
           interval={basePrice?.interval || 'month'}
           trialDays={basePrice?.trialPeriodDays || 7}
           features={[
-            'Unlimited Usage',
+            'TEST TEST TEST',
             'Unlimited Workspace Members',
             'Email Support',
           ]}
